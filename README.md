@@ -56,6 +56,10 @@ $ git clone https://github.com/maurodesouza/monorepo-template
 # Entre na pasta
 $ cd monorepo-template
 
+# Limpe o histórico do git
+$ rm -rf .git
+$ git init
+
 # Instale as dependências
 $ yarn
 ```
