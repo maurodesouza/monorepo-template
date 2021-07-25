@@ -60,6 +60,11 @@ $ cd monorepo-template
 $ rm -rf .git
 $ git init
 
+# Altere o nome do projeto nos arquivos
+package.json
+.eslintrc.js
+/packages/eslint/package.json
+
 # Instale as dependências
 $ yarn
 ```
