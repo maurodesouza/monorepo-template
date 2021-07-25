@@ -1,5 +1,5 @@
 {
-  "name": "@socket-chat/eslint",
+  "name": "@monorepo-template/eslint",
   "version": "1.0.0",
   "main": ".eslintrc.js",
   "devDependencies": {

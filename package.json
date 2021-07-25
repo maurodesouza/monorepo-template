@@ -1,5 +1,5 @@
 {
-  "name": "socket-chat",
+  "name": "monorepo-template",
   "version": "1.0.0",
   "private": true,
   "license": "MIT",
@@ -14,7 +14,7 @@
     ]
   },
   "devDependencies": {
-    "@socket-chat/eslint": "*",
+    "@monorepo-template/eslint": "*",
     "typescript": "^4.3.2"
   }
 }
